@@ -1,0 +1,142 @@
+{
+  "orders": [
+    {
+      "uuid": "6f0945f1-6a83-4dfd-93bb-3242314196",
+      "id": "158924",
+      "status": "Pendente",
+      "total": 120.5,
+      "delivery_cost": 12.0,
+      "shipping_method": "Entrega Expressa",
+      "delivery_estimated": "2025-02-17",
+      "customer": {
+        "name": "João da Silva",
+        "address": "Rua das Palmeiras, 123"
+      },
+      "items": [
+        {
+          "imagem": "https://via.placeholder.com/150",
+          "name": "Celular XYZ",
+          "quantity": 1,
+          "price": 120.5
+        }
+      ]
+    },
+    {
+      "uuid": "6f0945f1-6a83-4dfd-93bb-3242314197",
+      "id": "158925",
+      "status": "Entregue",
+      "total": 72.3,
+      "delivery_cost": 12.0,
+      "shipping_method": "Entrega Normal",
+      "delivery_estimated": "2025-02-17",
+      "customer": {
+        "name": "Maria Oliveira",
+        "address": "Av. Paulista, 987"
+      },
+      "items": [
+        {
+          "imagem": "https://via.placeholder.com/150",
+          "name": "Fone de Ouvido ABC",
+          "quantity": 1,
+          "price": 72.3
+        }
+      ]
+    },
+    {
+      "uuid": "6f0945f1-6a83-4dfd-93bb-3242314198",
+      "id": "158926",
+      "status": "Em Processamento",
+      "total": 245.8,
+      "delivery_cost": 15.0,
+      "shipping_method": "Entrega Expressa",
+      "delivery_estimated": "2025-02-20",
+      "customer": {
+        "name": "Carlos Mendes",
+        "address": "Rua Augusta, 456"
+      },
+      "items": [
+        {
+          "imagem": "https://via.placeholder.com/150",
+          "name": "Tênis Esportivo",
+          "quantity": 1,
+          "price": 189.9
+        },
+        {
+          "imagem": "https://via.placeholder.com/150",
+          "name": "Meias Esportivas",
+          "quantity": 2,
+          "price": 27.95
+        }
+      ]
+    },
+    {
+      "uuid": "6f0945f1-6a83-4dfd-93bb-3242314199",
+      "id": "158927",
+      "status": "Enviado",
+      "total": 532.45,
+      "delivery_cost": 0.0,
+      "shipping_method": "Entrega Grátis",
+      "delivery_estimated": "2025-02-22",
+      "customer": {
+        "name": "Ana Souza",
+        "address": "Av. Brasil, 789"
+      },
+      "items": [
+        {
+          "imagem": "https://via.placeholder.com/150",
+          "name": "Notebook Ultra",
+          "quantity": 1,
+          "price": 532.45
+        }
+      ]
+    },
+    {
+      "uuid": "6f0945f1-6a83-4dfd-93bb-3242314200",
+      "id": "158928",
+      "status": "Cancelado",
+      "total": 89.99,
+      "delivery_cost": 10.0,
+      "shipping_method": "Entrega Normal",
+      "delivery_estimated": "2025-02-18",
+      "customer": {
+        "name": "Pedro Santos",
+        "address": "Rua das Flores, 321"
+      },
+      "items": [
+        {
+          "imagem": "https://via.placeholder.com/150",
+          "name": "Camiseta Casual",
+          "quantity": 2,
+          "price": 39.99
+        }
+      ]
+    },
+    {
+      "uuid": "6f0945f1-6a83-4dfd-93bb-3242314201",
+      "id": "158929",
+      "status": "Pendente",
+      "total": 156.75,
+      "delivery_cost": 18.0,
+      "shipping_method": "Entrega Expressa",
+      "delivery_estimated": "2025-02-19",
+      "customer": {
+        "name": "Fernanda Lima",
+        "address": "Av. Rebouças, 654"
+      },
+      "items": [
+        {
+          "imagem": "https://via.placeholder.com/150",
+          "name": "Livro de Programação",
+          "quantity": 1,
+          "price": 89.9
+        },
+        {
+          "imagem": "https://via.placeholder.com/150",
+          "name": "Caderno Universitário",
+          "quantity": 2,
+          "price": 24.42
+        }
+      ]
+    }
+  ]
+}
